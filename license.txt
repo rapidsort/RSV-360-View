@@ -1,0 +1,4 @@
+GNU GENERAL PUBLIC LICENSE
+Version 1, 15 Jan 2016
+Copyright (C) 2016 
+ Everyone is permitted to copy and distribute verbatim copies
